@@ -1,0 +1,15 @@
+  "total": 2,
+  "totalNotFiltered": 2,
+  "rows": [
+    {
+      "id": 0,
+      "name": "Entry 0",
+      "value": "0"
+    },
+    {
+      "id": 1,
+      "name": "Entry 1",
+      "value": "1"
+    }
+  ]
+}
